@@ -1,0 +1,88 @@
+{% extends "auth_base.html" %} {% block title %} Study Plan {% endblock %} 
+{% block content%}
+
+<style>
+  .table th{
+    text-align: center;
+    background-color: #9B191D;
+    color: #f5f5f5;
+  }
+  .table tbody tr:nth-child(even){
+	background-color: #f5f5f5;
+  }
+  .container{
+            height: 800px;
+  }
+</style>
+  <body>
+  {% if modules and year  %}
+    <h2>แผนการเรียนของปี{{" "+year[0]+" "}}เทอม{{" "+year[1]+" "}}</h2>
+    <h3>Module :{{" "+ modules}}</h3>
+  {% elif year[1] == "ภาคฤดูร้อน" %}
+    <h2>แผนการเรียนของปี{{" "+year[0]+" "}}{{" "+year[1]+" "}}</h2>
+  {% elif year %}
+    <h2>แผนการเรียนของปี{{" "+year[0]+" "}}เทอม{{" "+year[1]+" "}}</h2>
+  {% else %}
+    <h2>...โปรดเลือกแผนการเรียน</h2>
+  {% endif %}
+  <form method="POST">
+  <div class="form-group">
+    <!-- <label for="semester"> แผนของ :</label> -->
+    <select name="semester" id="semester" >
+        <option value="">เลือกแผนการเรียน</option>
+      <optgroup label="ปี 1">
+        <option value="11">ปี 1 ภาคเรียนที่ 1</option>
+        <option value="12">ปี 1 ภาคเรียนที่ 2</option>
+      </optgroup>
+      <optgroup label="ปี 2">
+        <option value="21">ปี 2 ภาคเรียนที่ 1</option>
+        <option value="22">ปี 2 ภาคเรียนที่ 2</option>
+      </optgroup>
+      <optgroup label="ปี 3">
+        <option value="31">ปี 3 ภาคเรียนที่ 1</option>
+        <option value="32">ปี 3 ภาคเรียนที่ 2</option>
+        <option value="3S">ปี 3 ภาคฤดูร้อน</option>
+      </optgroup>
+        <optgroup label="ปี 4">
+        <option value="41">ปี 4 ภาคเรียนที่ 1</option>
+        <option value="42">ปี 4 ภาคเรียนที่ 2</option>
+      </optgroup>
+    </select>
+    <div class="form-group"> 
+      <label for="module_id"> Module :</label>
+      <select id="module_id" name="module_id">
+        <option value="">( เฉพาะปี 4 เทอม 1 )</option>
+        <option value="3">Actuarial Analytics</option>
+        <option value="4">Artificial Intelligence</option>
+        <option value="5">Digital Forensic</option>
+        <option value="6">Digital Transformation</option>
+        <option value="7">Health Informatics</option>
+      </select>
+    <button type="submit" class="btn btn-primary">ค้นหา</button>
+    
+  </div>
+</form>
+<br>
+  <table class="table table-bordered" style="width:100%">
+    <thead>
+      <tr>
+        <th>รหัสวิชา</th>
+        <th>ชื่อวิชา</th>
+        <th>หน่วยกิต</th>
+        <th>Prerequisite</th>
+      </tr>
+    </thead>
+    
+      {% for i in range(plan_list|length) %}
+        <tr>
+          <td ALIGN=CENTER>{{ plan_list[i]}}</td>
+          <td ALIGN=LEFT>{{ sub_desc[i].subject_name_th}} 
+            <br/>
+              {{ sub_desc[i].subject_name_en}}
+          </td>
+          <td ALIGN=CENTER>{{ sub_desc[i].subject_credit}}</td>
+          <td ALIGN=CENTER>{{ sub_desc[i].subject_prerequisite}}</td>
+        </tr>
+      {% endfor %}
+  </table>
+{% endblock %}

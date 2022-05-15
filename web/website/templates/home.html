@@ -1,0 +1,83 @@
+{% extends "base.html" %} 
+{% block title %}Home page{% endblock %} 
+{% block content %}
+
+<style>
+      .container{
+            height: 1600px;
+      }
+</style>
+
+<img src="../static/images/Header3.jpeg" alt="Default" class="center" 
+    style="display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;" > 
+  <br>
+
+
+
+  <br>
+  <img src="../static/images/S__86466601.jpg" alt="Default" class="center" 
+      style="display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;" > 
+ 
+     <div class="slideshow-container">
+       
+       <div class="mySlides fade">
+         <img src="../static/images/Thaprachan.jpeg" style="width:100%">
+       </div>
+       
+       <div class="mySlides fade">
+         <img src="../static/images/Lampang.jpeg" style="width:100%">
+       </div>
+       
+       <div class="mySlides fade">
+         <img src="../static/images/Rangsit.jpeg" style="width:100%">
+       </div>
+       
+     </div>
+ 
+     <div style="text-align:center">
+       <span class="dot"></span> 
+       <span class="dot"></span> 
+       <span class="dot"></span> 
+     </div>
+     
+     <script>
+     let slideIndex = 0;
+     showSlides();    
+     function showSlides() {
+       let i;
+       let slides = document.getElementsByClassName("mySlides");
+       let dots = document.getElementsByClassName("dot");
+       for (i = 0; i < slides.length; i++) {
+         slides[i].style.display = "none";  
+       }
+       slideIndex++;
+       if (slideIndex > slides.length) {slideIndex = 1}    
+       for (i = 0; i < dots.length; i++) {
+         dots[i].className = dots[i].className.replace(" active", "");
+       }
+       slides[slideIndex-1].style.display = "block";  
+       dots[slideIndex-1].className += " active";
+       setTimeout(showSlides, 7000);
+     }
+     </script> 
+
+<br>
+<a href="https://ci.tu.ac.th/" ><img src="../static/images/icon-cis.jpeg" alt="Default" class="center" 
+      style="display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 25%;" >    
+</a>
+<br>
+
+
+
+
+
+{% endblock %}

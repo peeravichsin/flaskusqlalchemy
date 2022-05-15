@@ -1,0 +1,288 @@
+TU100,พลเมืองกับการลงมือแก้ปัญหา,Civic Engagement,3
+TU101,โลก อาเซียน และไทย,Thailand ASEAN and the World,3
+TU109,นวัตกรรมกับกระบวนคิดผู้ประกอบการ,Innovation and Entrepreneurial Mindset,3 
+TU102,ทักษะชีวิตทางสังคม,Social Life Skills,3 
+TU108,การพัฒนาและจัดการตนเอง,Self Development and Management,3
+TU103,ชีวิตกับความยั่งยืน,Life and Sustainability,3
+TU107,ทักษะดิจิทัลกับการแก้ปัญหา,Digital Skill and Problem Solving,3
+TU050,การพัฒนาทักษะภาษาอังกฤษ,English Skill Development,3
+TU104,การคิด อ่าน และเขียนอย่างมีวิจารณญาณ,Critical Thinking Reading and Writing,3
+TU105,ทักษะการสื่อสารด้วยภาษาอังกฤษ,Communication Skills in English,3
+TU106,ความคิดสร้างสรรค์และการสื่อสาร,Creativity and Communication,3
+TU131,มนุษย์กับวิทยาศาสตร์กายภาพ,Man and Physical Science,3 
+TU111,ประเทศไทย ในมิติทางประวัติศาสตร์ สังคม และวัฒนธรรม,Thailand in Historical Social and Cultural Perspective,3
+TU116,มนุษย์กับศิลปะ ทัศนศิลป์ ดนตรี และศิลปะการแสดง,Man and Arts Visual Art Music and Performing Arts,3
+TU117,พัฒนาการของโลกสมัยใหม่,Develop of Modern World,3
+TU121,มนุษย์กับสังคม,Man and Society,3
+TU122,กฎหมายในชีวิตประจำวัน,Law in Everyday Life,3
+TU124,สังคมกับเศรษฐกิจ,Society and Economy,3
+TU143,มนุษย์กับสิ่งแวดล้อม,Man and Environment,3
+TU156,คอมพิวเตอร์และการเขียนโปรแกรมเบื้องต้น,Introduction to Computers and Programming,3
+TU112, มรดกโลกก่อนสมัยใหม่, Heritage of the Pre-modern World, 3
+TU115, มนุษย์กับผลงานสร้างสรรค์ด้านวรรณกรรม, Man and his Literacy Creativity, 3
+TU142, มนุษย์กับวิทยาศาสตร์ชีวภาพ, Man and Biological Science, 3
+TU151, คณิตศาสตร์ทั่วไประดับมหาวิทยาลัย, General College Mathematics, 3
+TU153, ความรู้ทั่วไปเกี่ยวกับคอมพิวเตอร์, General Concepts of Computer, 3
+TU155, สถิติพื้นฐาน, Elementary Statistics, 3
+EL217,การฟังและการพูดด้านวิชาการ,Speaking and Listening for Academic Purposes,3 
+DSI100,วิทยาศาสตร์ข้อมูลสาหรับชีวิตประจำวัน,Data Science for Everyday Life,3
+DSI200,การเขียนโปรแกรมเพื่อวิเคราะห์ข้อมูล,Data Analytics Programming,3  
+DSI201,การจัดการฐานข้อมูล,Database Management,3
+DSI202,การพัฒนาซอฟท์แวร์ขั้นสมบูรณ์,Full Stack Software Development,3
+DSI203,การแก้ปัญหาภายใต้ความไม่แน่นอน,Problem solving under uncertainty,3
+DSI204,การคิดเชิงความน่าจะเป็น,Probability thinking,3
+DSI205,พีชคณิตเชิงเส้นพื้นฐานสาหรับการวิเคราะห์ข้อมูล,Basics of Linear algebra for data analytics,3 
+DSI206,การจัดการข้อมูลสื่อประสม,Multimedia Representation Management,3 
+DSI207,การหาค่าเหมาะที่สุดเบื้องต้น,Introduction to Optimization,3
+DX310,นวัตกรรมและผู้ประกอบการ,Innovation and Entrepreneurship,3
+DX311,การตลาดเชิงสร้างสรรค์,Innovative Marketing,3
+DX312,การเงินและบัญชี,Accounting and Finance,3
+DX313,กฎหมายธุรกิจและเทคโนโลยีสารสนเทศ,Business and Information Technology Laws,3 
+DX314,การบริหารเชิงกลยุทธ์,Strategic Management,3
+DSI210,เทคโนโลยีนวัตกรรมเพื่อผู้ประกอบการ,Technology and Innovation for Entrepreneur,3
+DSI211,การตลาดในยุคของวิทยาศาสตร์ข้อมูล,Marketing in Data Science Era,3
+DSI212,การเงินและการบัญชีในยุคดิจิทัล,Finance and Accounting in Digital Era,3
+DSI213,กฎหมายกับวิทยาศาสตร์ข้อมูลและนวัตกรรม,Data Science and Innovation Laws,3
+DSI214,เทคโนโลยีสารสนเทศและนวัตกรรมข้อมูลกับการจัดการเชิงกลยุทธ์,Information Technology and Data Innovation for Strategic Management,3
+DSI310,การสำรวจและการเตรียมข้อมูล,Data Exploration and Preprocessing,3 
+DSI311,อัลกอริทึมของวิทยาศาสตร์ข้อมูล,Data Science Algorithms,3
+DSI312,ระบบธุรกิจอัจฉริยะ,Business Intelligence Business Intelligence,3
+DSI313,การวิเคราะห์การตลาด,Marketing Analytics,3
+DSI314,โครงงานด้านการวิเคราะห์ข้อมูลสาหรับธุรกิจ,Business Analytics Capstone Project,3 
+DSI320,สถาปัตยกรรมการจัดการข้อมูล,Data Architecture,3 
+DSI321,โครงสร้างพื้นฐานคอมพิวเตอร์สำหรับการประมวลข้อมูลขนาดใหญ่,Big Data Infrastructure,3
+DSI322,ธรรมาภิบาลข้อมูล,Data Governance,3
+DSI323,แพลตฟอร์มสาหรับธรรมาภิบาลข้อมูล,Data Governance Platform,3
+DSI324,โครงงานด้านธรรมาภิบาลข้อมูล,Practical Data Governance Project,3
+DSI380,ฝึกปฏิบัติงานทางวิทยาศาสตร์และนวัตกรรมข้อมูล,Data Science and Innovation Internship,1 
+DSI430,ความรู้เบื้องต้นเกี่ยวกับการวิเคราะห์เชิงลึกด้านประกันภัย,Introduction to Actuarial Analytics,3 
+DSI431,ข้อมูลและการวิเคราะห์ทางด้านประกันภัย,Data and Analysis in Insurance,3 
+DSI432,การวิเคราะห์ข้อมูลเชิงลึกสาหรับการจัดการความเสี่ยง,Data Analytics for Risk Management,3  
+DSI433,ตัวแบบเชิงประยุกต์ด้านประกันภัย,Practical Models in Insurance,3 
+DSI434,โครงงานด้านเทคโนโลยีการประกันภัย,Practical Actuarial Technology Project,3 
+DSI440,ความรู้เบื้องตันเกี่ยวกับปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง,Introduction to Artificial Intelligence and Machine Learning,3
+DSI441,โครงข่ายประสาทเทียมและการเรียนรู้เชิงลึก,Artificial Neural Network and Deep Learning,3  
+DSI442,ระบบฐานความรู้,Knowledge-based System,3 
+DSI443,การทาเหมืองสื่อประสม,Multimedia Mining,3 
+DSI444,โครงงานด้านเทคโนโลยีปัญญาประดิษฐ์,Practical Artificial Intelligent Technology Project,3 
+DSI450,การตรวจพิสูจน์พยานหลักฐานทางดิจิทัล,Digital Forensic,3  
+DSI451,อาชญากรรมไซเบอร์,Cybercrime,3
+DSI452,เทคโนโลยีความปลอดภัยพื้นฐานสาหรับเน็ตเวิร์คและเซิร์ฟเวอร์,Fundamental Security for Network and Server,3 
+DSI453,การจัดการความปลอดภัยทางไซเบอร์,Cyber Security Management,3 
+DSI454,โครงงานจำลองการพิสูจน์พยานหลักฐานทางดิจิทัล,Digital Forensic Simulation Project,3 
+DSI460,กลยุทธ์เทคโนโลยีสารสนเทศในการเปลี่ยนผ่านองค์กรสู่ดิจิทัล,Information Technology for Digital Transformation Strategy,3   
+DSI461,วิทยาศาสตร์ข้อมูลกับการเปลี่ยนผ่านองค์กรสู่ดิจิทัล,Data Science and Digital Transformation Evolution,3 
+DSI462,ผู้นำในยุควิทยาศาสตร์ข้อมูลและนวัตกรรม,Leadership in Data Science and Innovation Era,3 
+DSI463,แบบจำลองข้อมูลในยุคดิจิทัล,Data Model in Digital Era,3 
+DSI464,โครงงานเทคโนโลยีการจัดการข้อมูลในการเปลี่ยนผ่านองค์กรสู่ดิจิทัล,Data Management Technology Project for Digital Transformation,3
+DSI470,โครงสร้างพื้นฐานด้านเทคโนโลยีสารสนเทศสุขภาพ,Health Information Technology Infrastructure,3   
+DSI471,เวชระเบียนทางอิเล็กทรอนิกส์,Electronic Health Record,3 
+DSI472,การจำแนกโรคระหว่างประเทศ,International Classification of Diseases,3 
+DSI473,การวิเคราะห์ข้อมูลสุขภาพ,Health Data Analysis,3 
+DSI474,โครงงานคอมพิวเตอร์ประยุกต์ด้านสารสนเทศสุขภาพ,Computer Application Project in Health Informatics,3
+DSI480,สหกิจศึกษา,Co-operative Education,3,DSI380
+H162,การเขียนรายงานวิชาการ,Report Writing,3
+CH171,ภาษาจีน 1,Chinese 1,3
+CH172,ภาษาจีน 2,Chinese 2,3,CH171
+FR070,ภาษาฝรั่งเศสเบื้องต้น,Elementary French,3
+FR171,ภาษาฝรั่งเศส 1,French 1,3
+FR172,ภาษาฝรั่งเศส 2,French 2,3,FR171
+JP171,ภาษาญี่ปุ่น 1,Japanese 1,3
+JP172,ภาษาญี่ปุ่น 2,Japanese 2,3,JP171
+RS171,ภาษารัสเซีย 1,Russian 1,3
+RS172,ภาษารัสเซีย 2,Russian 2,3,RS171
+GR171,ภาษาเยอรมัน 1,German 1,3
+GR172,ภาษาเยอรมัน 2,German 2,3,GR171
+GR111,ภาษาเยอรมันพื้นฐาน 1,Fundamental German 1,3,GR172
+GR112,ภาษาเยอรมันพื้นฐาน 2,Fundamental German 2,3,GR111
+SP171,ภาษาสเปน 1,Spanish 1,3
+SP172,ภาษาสเปน 2,Spanish 2,3,SP171
+AS171,ภาษาเกาหลี 1,Korean 1,3
+AS172,ภาษาเกาหลี 2,Korean 2,3,AS171
+AS173,ภาษาเขมร 1,Khmer 1,3
+AS174,ภาษาเขมร 2,Khmer 2,3,AS173
+AS175,ภาษาพม่า 1,Burmese 1,3
+AS176,ภาษาพม่า 2,Burmese 2,3,AS175
+AS177,ภาษามลายู 1,Malay 1,3
+AS178,ภาษามลายู 2,Malay 2,3,AS177
+AS179,ภาษาเวียดนาม 1,Vietnamese 1,3
+AS180,ภาษาเวียดนาม 2,Vietnamese 2,3,AS179
+AS181,ภาษาลาว 1,Lao 1,3
+AS182,ภาษาลาว 2,Lao 2,3,AS181
+AS183,ภาษาอินโดนีเซีย 1,Indonesian 1,3
+AS184,ภาษาอินโดนีเซีย 2,Indonesian 2,3,AS183
+EL171,ภาษาต่างประเทศ 1,Foreign Language 1,3
+EL172,ภาษาต่างประเทศ 2,Foreign Language 2,3
+IP100,ความรู้เบื้องต้นทางปรัชญา,Introduction to Philosophy,3
+IP101,ความรู้เบื้องต้นทางการเมือง,Introduction to Politics,3
+IP102,เศรษฐศาสตร์จุลภาคพื้นฐาน,Basic Microeconomics,3
+IP103,เศรษฐศาสตร์มหาภาคพื้นฐาน,Basic Macroeconomics,3
+IP200,ความรู้เบื้องต้นทางกฎหมายและกฎหมายมหาชน,Introduction to Law and Public Law,3
+IP201,ปรัชญาสังคมและการเมือง,Social and Political Philosophy,3
+IP202,การเมืองและการปกครองของประเทศไทยสมัยใหม่,Politics and Government of Modern Thailand,3
+IP203,รัฐธรรมนูญและสถาบันการเมืองในสังคมสมัยใหม่,Constitution and Political Institutions in Modern Society,3
+IP204,ระเบียบวิธีวิจัยสำหรับปรัชญา การเมือง และเศรษฐศาตร์,Research Methodology for Philosophy Politics and Economics,3
+IP220,จริยศาสตร์เบื้องต้น,Introductory Ethics,3
+IP221,ตรรกศาสตร์และการใช้เหตุผล,Logic and Reasoning,3
+IP320,ประวัติปรัชญาตะวันตก,History of Western Philosophy,3
+IP321,ประวัติปรัชญาตะวันออก,History of Eastern Philosophy,3
+IP322,อภิปรัชญาและญาณวิทยาเบื้องต้น,Introduction to Metaphysics and Epistemology,3
+IP222,ความรู้เบื้องต้นเกี่ยวกับกฎหมายปกครอง,Introduction to Administrative Law,3
+IP223,ระบบกฎหมายและระบบยุติธรรมของไทย,Thai Legal and Judicial System,3
+IP323,กรอบการศึกษาการเมืองเปรียบเทียบ,Approaches in Comparative Politics,3
+IP324,การเมืองโลก,Global Politics,3
+IP325,สิทธิมนุษยชน,Human Rights,3
+IP224,เศษฐศาสตร์จุลภาคชั้นกลาง,Intermediate Microeconomics,3,IP102
+IP225,เศรษฐศาสตร์มหาภาคชั้นกลาง,Intermediate Macroeconomics,3,IP103
+IP330,เทคนิคทางคณิตศาสตร์และสถิติในเศรษฐศาสตร์,Mathematical and Statistical Techniques in Economics,3,(TU151 TU155)
+IP331,เศรษฐมิติพื้นฐาน,Basic Econometrics,3,IP330
+IP332,เศรษฐกิจไทยร่วมสมัย,Contemporary Thai Economy,3
+IP230,การอ่านและการเขียนภาษาอังกฤษทางวิชาการ 1,Academic English Reading and Writing 1,3,TU105
+IP231,การอ่านและการเขียนภาษาอังกฤษทางวิชาการ 2,Academic English Reading and Writing 2,3,IP230
+IP232,การฟังและการพูดภาษาอังกฤษทางวิชาการ,Academic English Listening and Speaking,3,TU105
+IP346,สุนทรียศาสตร์และปรัชญาศิลปะ,Aesthetics and Philosophy Art,3
+IP347,รากฐานทางปรัชญาของคามเป็นสมัยใหม่,Philosophical Foundation of Modernity,3
+IP348,ปรัชญากฎหมาย,Legal Philosophy,3
+IP349,ความเคลื่อนไหวทางสังคมและการเมืองในระบอบประชาธิปไตย,Social Movements and Democratic Politics,3
+IP356,การเมืองกับศาสนา,Politics and Religion,3
+IP357,ความคิดทางการเมือง จากเพลโตถึงยุคปัจจุบัน,Political Thought From Plato to the Present,3
+IP358,ระบอบประชาธิปไตยเปรียบเทียบ,Comparative Democracy,3
+IP359,เศรษฐศาสตร์นโยบายสาธารณะ,Public Policy Economics,3
+IP366,การบริหารรัฐกิจและการศึกษาองค์การ,Public Administration and Organization,3
+IP367,หลักทั่วไปของกฎหมายแพ่งและพานิชย์,General Principles of Civil and Commercial Law,3
+IP368,ประวัติศาสตร์ธุรกิจไทยสมัยใหม่,Modern Thai Business History,3
+IP369,เศรษฐกิจการเมืองระหว่างประเทศ,International Political Economy,3
+IP376,เศรษฐศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม,Natural Resources and Environment Economics,3
+IP377,เศรษฐศาสตร์สถาบันพื้นฐาน,Basic Institutional Economics,3
+IP378,การพัฒนาระหว่างประเทศเบื้องต้น,Introduction to International Development,3
+IP379,จริยธรรมทางธุรกิจและความรับผิดชอบของธุรกิจต่อสังคม,Business Ethics and Corporate Social Responsibility,3
+IP386,ศิลปะกับสังคม,Art and Society,3
+IP387,จีนร่วมสมัย,Contemporary China,3
+IP388,ญี่ปุ่นร่วมสมัย,Contemporary Japan,3
+IP389,อินเดียร่วมสมัย,Contemporary India,3
+IP396,อาเซียนศึกษา,ASEAN Studies,3
+IP397,บูรณาการยุโรป,European Integration,3
+IP398,เศรษฐกิจการเมืองของกลุ่มประเทศรัฐสวัสดิการ,The Political Economy of Welfare State Countries,3
+IP399,ความยุติธรรมระดับโลก,Global Justice,3
+IP446,สัมมนาประเด็นทางปรัชญา,Seminar on Philosophical Issues,3
+IP447,กฎหมายกับความสัมพันธ์ระหว่างประเทศ,Law and International Relations,3
+IP448,กฎหมายกับการปกครองท้องถิ่น,Law and Local Government,3
+IP449,กฎหมายไทยในแง่มุมทางสังคม การเมือง และเศรษฐกิจ,Thai Laws in Socio-Politico-Economic Aspects,3
+IP456,สัมมนาประเด็นทางกฎหมายและการเมือง,Seminar on Legal and Political Issues,3
+IP457,เศรษฐศาสตร์เมือง,Urban Economics,3
+IP458,การพัฒนาเศรษฐกิจของประเทศในเอเชียตะวันออก,East Asian Economic Development,3
+IP459,สัมมนาประเด็นทางเศรษฐกิจและการพัฒนา,Seminar on Economic and Developmental Issues,3
+IP466,สัมมนาประเด็นร่วมสมัยด้านสิทธิมนุษยชน,Seminar on Contemporary Human Rights Issues,3
+IP467,ประวัติศาสตร์โลกว่าด้วยเพศสภาพและเพศวิถี,Global History of Gender and Sexuality,3
+IP468,สัมมนาประเด็นสำคัญระดับโลก,Seminar on Global Issues,3
+IP469,ปรัชญาสตรี,Philosophy of Woman,3
+IP476,สัมมนาหัวข้อเฉพาะทางสังคมศาสตร์และมนุษย์ศาสตร์,Seminar on Specific Topics in Sciences and Humanities,3
+IP477,ปรัชญาสังคมศาสตร์,Philosophy of Social Sciences,3
+IP478,เศรษฐมิติขั้นกลาง,Intermediate Econometrics,3,IP331
+IP479,การเมืองและธุรกิจในเอเชียตะวันออกและเอเชียตะวันออกเฉียงใต้,Politics and Business in East and Southeast Asia,3
+IP486,ปรัชญาและภาพยนตร์,Philosophy and Film,3
+IP487,ประวัติศาสตร์แนวคิดทางเศรษฐศาสตร์ จากสมิธถึงปัจจุบัน,History of Economic Thought From Smith to the Present,3
+IP488,เศรษฐศาสตร์เกษตรเบื้องต้น,Introduction of Agriculture Economics,3
+IP489,เศรษฐศาสตร์ว่าด้วยนวัตกรรม,Economics of Innovation,3
+IP496,ปรัชญาและวิธีวิทยาการวิจัยเชิงปริมาณ,Philosophy and Research Methodology for Quantitative Research,3
+IP497,ปรัชญาและวิธีวิทยาการวิจัยเชิงคุณภาพ,Philosophy and Research Methodology for Qualitative Research,3
+IP498,เศรษฐศาสตร์การเงินและตลาดการเงิน,Economics of Money and Financial Markets,3
+IP499,ปรัชญาวิทยาศาสตร์,Philosophy of Science,3
+IP546,เศรษฐศาสตร์อุตสาหกรรมและการประยุกต์,Applied Industrial Economics,3
+IP547,การพัฒนาเมืองและชนบท,Urban and Rural Development,3
+IP548,เศรษฐศาสตร์ระหว่างประเทศเบื้องต้น,Introduction of International Economics,3
+IP500,การฝึกปฏิบัติงาน,Internship,3
+IP501,ภาคนิพนธ์ 1,Research Paper 1,3
+IP502,ภาคนิพนธ์ 2,Research Paper 2,3
+SI110,การค้นคว้าและการเขียนงานวิชาการ,Information Literacy and Report Writing,3
+SI111,ไวยากรณ์ภาษาอังกฤษแบบเข้ม,Intensive English Grammar,3
+AS125,ความรู้ทั่วไปเกี่ยวกับอาเซียน,Introduction to ASEAN,3
+SI201,วัฒนธรรมศึกษา,Cultural Study,3
+SI202,ทฤษฎีสังคมศาสตร์,Social Theory,3
+SI203,เศรษฐศาสตร์เพื่อสหวิทยาการ,Economics for Interdisciplinary Studies,3
+SI204,รัฐศาสตร์เพื่อสหวิทยาการ,Political Science for Interdisciplinary Studies,3
+SI205,การบริหารธรุกิจเพื่อสหวิทยาการ,Business Asdministration for Interdisciplinary Studies,3
+SI206,สิ่งแวดล้อมกับการพัฒนา,Environment and Development,3
+SI207,หลักนิติธรรมและกฎหมายเบื้องต้น,Introduction to Law and Rule by Law,3
+SI208,การวิจัยเชิงคุณภาพเพื่อสหวิทยาการ,Qualitative research for Interdisciplinary studies,3
+SI209,การวิจัยเชิงปริมาณทางสังคมศาสตร์,Quantitative Research,3
+SI211,ภาษาอังกฤษสำหรับสังคมศาสตร์,English for Social Sciences,3,TU105
+SI212,ภาษาอังกฤษเพื่อการสื่อสาร,English for Communication,3,TU105
+SI213,ภาษาจีนเบื้องต้น 1,Basic Chinese 1,3
+SI214,ภาษาจีนเบื้องต้น 2,Basic Chinese 2,3
+SI501,กระบวนการทำงานในชุมชน,Community Participatory Feild Work,3
+SI502,ฝึกประสบการณ์ภาคปฎิบัติสหวิทยาการ,Practicum in Interdisciplinary Studies,3
+SI500,ภาคนิพนธ์,Directed Research,4
+SI503,การเตรียมความพร้อมสหกิจศึกษา,Cooperative Education Preparation,1
+SI504,สหกิจศึกษา,Cooperative Education,6
+SI321,กฎหมายระหว่างประเทศ,International Law,3
+SI322,เอเชียในบริบทโลก,Asia in Global Context,3
+SI323,เศรษฐศาสตร์ระหว่างประเทศ,International Economics,3
+SI324,แนวคิดว่าด้วยการพัฒนา,Concepts and Theories on Development,3
+SI325,ทุนทางสังคมและวัฒนธรรม,Social And Cultural Capital,3
+SI326,การบริหารและการจัดการองค์กร,Organization Management,3
+SI331,ภาษาจีนในชีวิตประจำวัน,Chinese for Everyday Use,3
+SI332,การอ่านภาษาอังกฤษด้านภาษาจีนศึกษา,Readings in Chinese Studies,3
+SI333,ประวัติศาสตร์และอารยธรรมจีน,History and Civilization of China,3
+SI334,การเมืองและการปกครองจีน,Government and Politics of China,3
+SI335,จีนในเศรษฐกิจโลก,China in the Global Economy,3
+SI336,สังคมและวัฒนธรรมของจีนร่วมสมัย,Society and Culture of Contemporary China,3
+SI431,ความมั่นคงและนโยบายต่างประเทศของจีน,Security and Foreign Policy of China,3
+SI432,จีนกับความท้าทายด้านสิ่งแวดล้อม,China and Environmental Challenges,3
+SI433,จีนโพ้นทะเล การย้ายถิ่น อัตลักษณ์ และโลกาภิวัตน์,Overseas Chinese Migration Identity,3
+SI434,สัมมนาจีนศึกษา,Seminar on Chinese Studies,3
+SI341,การอ่านภาษาอังกฤษเฉพาะเรื่องอนุภูมิภาคลุ่มแม่น้ำโขง,Selected Readings in the Greater Mekong Subregion,3
+SI342,การเคลื่อนย้ายและการอพยพข้ามแดนในอนุภูมิภาคลุ่มแม่น้ำโขง,Mobility and Cross border Migration in the Greater Mekong Subregion,3
+SI343,การเมืองการปกครองของกลุ่มประเทศในอนุภมิภาคลุ่มแม่น้ำโขง,Politics and Government of the Greater Mekong Subregion,3
+SI344,สังคมและวัฒนธรรมของกลุ่มประเทศในอนุภูมิภาคลุ่มแม่น้ำโขงร่วมสมัย,Society and Culture of Contemporary the Greater Mekong Subregion,3
+SI345,การค้าและการลงทุนของกลุ่มประเทศในอนุภูมิภาคลุ่มแม่น้ำโขง,Politics and Government of the Greater Mekong Subregion,3
+SI346,อนุภูมิภาคลุ่มแม่น้ำโขงในบริบทโลก, Greater Mekong Subregion in Global Context,3
+SI441,อนุภูมิภาคลุ่มแม่น้ำโขงกับความท้าทายด้านสิ่งแวดล้อม,Mekong Subregion and Environmental Challenges,3
+SI442,การพัฒนาและการจัดการโลจิสติกส์และห่วงโซ่อุปทาน,Logistics and Supply Chain Management and Development,3
+SI443,ระบบสารสนเทศเพื่อการพัฒนาในอนุภูมิภาคลุ่มแม่น้ำโขง,Information System for Mekong Subregion Development,3
+SI444,สัมมนาอนุภูมิภาคลุ่มแม่น้ำโขงศึกษา,Seminar on the Greater Mekong Subregion Studies,3
+SI351,คติชนสร้างสรรค์,Creative Folklore,3
+SI352,กลุ่ม องค์กร และเครือข่ายทางสังคมกับการพัฒนาสังคม,Group Organization and Social Networks for Social Development,3
+SI353,การสื่อสารเพื่อการจัดการ,Communication for Management,3
+SI354,การพัฒนาทุนมนุษย์และผู้ประกอบการทางสังคม,Human Capital Development and Social Entrepreneur,3
+SI355,ล้านนาศึกษา,Lanna Studies,3
+SI356,การจัดการทรัพยากรทางสังคมและวัฒนธรรม,Socio Cultural Resources Management,3
+SI451,ประวัติศาสตร์และโบราณคดีชุมชนเพื่อบูรณาการสู่พิพิธภัณฑ์,Historical and Community Archaeology Management for Museology Integration,3
+SI452,อุตสาหกรรมวัฒนธรรม,Cultural Industry,3
+SI453,เทคโนโลยีกับการจัดการทรัพยากรทางสังคมและวัฒนธรรม,Technology and Socio Cultural Resources Management,3
+SI454,สัมมนาการจัดการทรัพยากรทางสังคมและวัฒนธรรม,Seminar on Socio Cultural Resources Management,3
+SI361,อุตสาหกรรมการท่องเที่ยวในบริบทแห่งยุคโลกาภิวัตน์,Tourism Industry in Globalization Context,3
+SI362,ภูมิศาสตร์และทรัพยากรการท่องเที่ยว,Geography and Tourism Resources,3
+SI363,สังคมวิทยาการท่องเที่ยว,Sociology of Tourism,3
+SI364,การจัดการธุรกิจท่องเที่ยวร่วมสมัย,Contemporary Tourism Business Management,3
+SI365,งานมัคคุเทศก์กับการท่องเที่ยวในอาเซียน,Tourist Guide and ASEAN Tourism,3
+SI366,นโยบายและแผนการจัดการการท่องเที่ยวยั่งยืน,Policy and Plan for Sustainable Tourism Management,3
+SI461,กฎหมายสำหรับธุรกิจบริการและการท่องเที่ยว,Tourism and Hospitality,3
+SI462,การท่องเที่ยวเชิงสร้างสรรค์และแนวโน้มการจัดการการท่องเที่ยวในอนาคต,Creative Tourism and Trends of Tourism,3
+SI463,เทคโนโลยีกับพลวัตอุตสาหกรรมการท่องเที่ยว,Technology and Tourism Dynamic,3
+SI464,สัมมนาการพัฒนาการท่องเที่ยว,Seminar on Tourism Devalopment,3
+SI371,ภาษาจีนเพื่อการสื่อสารในองค์กร,Chinese for Organizational Communication,3
+SI372,ภาษาจีนเพื่อการสมัครงาน,Chinese for Job Application,3
+SI373,การพัฒนาเมืองและชนบทในกลุ่มประเทศอนุภูมิภาคลุ่มแม่น้ำโขง,Urban and Rural in the Mekong Subregions,3
+SI374,มหาอำนาจกับเอเชียตะวันออกเฉียงใต้,Major Powers and Southeast Asia,3
+SI375,ประชาสังคมและประชาธิปไตยท้องถิ่น,Civil Society and Local Democratic Governance,3
+SI376,หลักการสื่อสารระหว่างวัฒนธรรม,Principles of Intercultural Communication,3
+SI377,ภาษาอังกฤษเพื่อธุรกิจท่องเที่ยว,English for Tourism Business,3,TU105
+SI378,จรรยาบรรณวิชาชีพมัคคุเทศก์,Professional Ethic for Tourist Guide,3
+SI471,วัฒนธรรมการดำเนินธุรกิจในจีน,Culture of Business Transactions in China,3
+SI472,อุตสาหกรรมการท่องเที่ยวของจีน,Tourism Industry of China,3
+SI473,ชาติพันธุ์ รัฐ และโลกาภิวัตน์,Ethnicity State and Globalization,3
+SI474,การท่องเที่ยวในเอเชียตะวันออกเฉียงใต้,Tourism in Southeast Asia,3
+SI475,มนุษย์ สังคมและวัฒนธรรมในวรรณกรรมและภาพยนตร์,Man Society and Culture in Literature and Flim,3
+SI476,ระบบอาหารกับโลกาภิวัตน์,Food and Globalization,3
+SI477,หลักนันทนาการเพื่อการท่องเที่ยว,Principles of Recreation for Tourism,3
+SI478,การบริหารกิจการและการฝึกอบรม,Activities and Training Management,3
+SI381,เพศสถาวะและเพศวิถี,Gender and Sexuality,3
+SI382,ศิลปะจีน,Chinese Art,3
+SI383,ภาษาอังกฤษเพื่อการประกอบอาชีพ,English for Careers,3
+SI384,การพัฒนาทักษะการนำเสนอข้อมูลทางสังคมศาสตร์,Skill Development in Presenting Information of Social Science,3
+SI385,ประเด็นปัจจุบันด้านความสัมพันธ์ระหว่างประเทศ,Current Issue in Intermational Relations,3
+SI386,ศิลปะกับการจัดการ,Arts and Management,3
+SI387,สวัสดีการสังคมศึกษา,Social Walfare Studies,3
+SI388,ภูมิทัศน์วัฒนธรรม,Cultural Landscape,3
+SI389,สัมมนาหัวข้อเฉพาะทางสังคมศาสตร์,Seminar on Specific Topics in Social Sciences and Humanities,3

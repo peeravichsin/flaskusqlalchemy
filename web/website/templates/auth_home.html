@@ -1,0 +1,31 @@
+{% extends "auth_base.html" %} 
+{% block title %}Home{% endblock %} 
+{% block content %}
+    <!-- Our style-->
+    <link
+    href="{{ url_for('static', filename='css/style.css')}}"
+    rel="stylesheet"
+    />
+
+    <style>
+        .container{
+              height: 1200px;
+        }
+  </style>
+
+    <br>
+
+        <img src="../static/images/CIS-CCS.jpeg" alt="CCS" class="center" 
+        style="display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;"> 
+
+        <img src="../static/images/suggestion.jpeg" alt="suggestion" class="center"
+        style="display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;">
+
+    <br>
+    {% endblock %}
