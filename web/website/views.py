@@ -160,23 +160,25 @@ def enroll():
     if con_list is not None:
         for i in range(len(con_list)):
             pre = Subject.query.filter_by(id=con_list[i]).first()
-            if pre is not None:
-                if pre.subject_prerequisite:
-                    c = "Warning"
-                    check.append(c)
-                    el = f'วิชานี้ต้องลง{pre.subject_prerequisite}ก่อน'
-                    error_list.append(el)
 
-            if con_list[i] in plan_list:
-                c = "Pass"
+            if pre.subject_prerequisite and enrolled_list[6][1] == '0':
+                c = "Warning"
                 check.append(c)
-                el = 'ไม่มีปัญหา'
+                el = f'วิชานี้ต้องลง{pre.subject_prerequisite}ก่อน'
                 error_list.append(el)
+
             elif con_list[i] == 'DSI480'and enrolled_list[6][1] == "1":
                 c = "Pass"
                 check.append(c)
                 el = 'ผ่านการเข้าฝึกงานภาคฤดูร้อนมาแล้ว'
                 error_list.append(el)
+                
+            elif con_list[i] in plan_list:
+                c = "Pass"
+                check.append(c)
+                el = 'ไม่มีปัญหา'
+                error_list.append(el)
+
             elif con_list[i] not in plan_list and con_list[i] in donthave:
                 c = "Failed"
                 check.append(c)
